@@ -18,8 +18,7 @@ patches:
 #   newTag: latest
 # - name: istory
 images:
-- name: kubecats/istory
-  newName: kubecats/istory
+- name: wbyjt11/istory
   newTag: latest
 
 generatorOptions:
