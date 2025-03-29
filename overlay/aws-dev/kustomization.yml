@@ -20,7 +20,7 @@ patches:
 images:
 - name: kubecats/istory
   newName: kubecats/istory
-  newTag: "18"
+  newTag: latest
 
 generatorOptions:
   disableNameSuffixHash: true
