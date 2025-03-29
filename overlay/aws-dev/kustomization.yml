@@ -19,7 +19,8 @@ patches:
 # - name: istory
 images:
 - name: wbyjt11/istory
-  newTag: latest
+  newName: wbyjt11/istory
+  newTag: "21"
 
 generatorOptions:
   disableNameSuffixHash: true
